@@ -1,14 +1,12 @@
-# Flux 
+# Personal Digital Application Manager
 
-An application architecture for React
+PDAM
 
 ---
 
-### Flux Design
+### Inspiration
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+
 
 ---
 
